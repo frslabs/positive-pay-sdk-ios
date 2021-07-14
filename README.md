@@ -29,10 +29,12 @@ You will need a valid license and Netrc credentials to use the Positive Pay SDK,
 
 Once you have the license , follow the below instructions for a successful integration of Positive Pay SDK onto your iOS Application.
 
-## Requirements
+## Minimum Requirements
 
-- Swift 5.0
+- Xcode 12.5
 - iOS 12.0+
+- Swift 5.0
+
 
 ## Permission
 
